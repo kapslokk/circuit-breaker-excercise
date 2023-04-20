@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreaker", "CircuitBreaker\CircuitBreaker.csproj", "{8636AC0F-FC1F-49E5-88F3-052B53598381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApi", "WeatherApi\WeatherApi.csproj", "{B6D2FD55-06DB-4BD7-872D-298DBF67DEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowApi", "SlowApi\SlowApi.csproj", "{652BBB77-B2C9-4E39-AA61-7C32B2C30FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8636AC0F-FC1F-49E5-88F3-052B53598381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8636AC0F-FC1F-49E5-88F3-052B53598381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8636AC0F-FC1F-49E5-88F3-052B53598381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8636AC0F-FC1F-49E5-88F3-052B53598381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D2FD55-06DB-4BD7-872D-298DBF67DEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D2FD55-06DB-4BD7-872D-298DBF67DEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D2FD55-06DB-4BD7-872D-298DBF67DEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D2FD55-06DB-4BD7-872D-298DBF67DEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652BBB77-B2C9-4E39-AA61-7C32B2C30FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652BBB77-B2C9-4E39-AA61-7C32B2C30FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652BBB77-B2C9-4E39-AA61-7C32B2C30FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652BBB77-B2C9-4E39-AA61-7C32B2C30FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
